@@ -7,7 +7,7 @@
 ## Background
 A UK-based clothing store launched a series of targeted marketing campaigns for the **Spring, Fall, and summer** seasons. Each campaign included **two distinct advertisements** on **Facebook, Pinterest, and Instagram**: one highlighting _discount_ and the other showcasing the _latest clothing collections_. The campaigns specifically targeted three major cities: London, Birmingham, and Manchester. Daily performance metrics were meticulously captured across various dimensions, including cities, channels, devices, and individual ads. These metrics encompassed `Impressions`, `Click-Through Rate (CTR)`, `Clicks`, `Daily Average Cost-Per-Click (CPC)`, `Spend`, `Conversions`, `Total Conversion Value`, `Likes`, `Shares`, and `Comments` 
 
-![](Maketing_campaign_Image.jpeg)
+![](campaign_ad_image.jpeg)
 
 [Photo Credit](https://create.microsoft.com/en-us/features/ai-image-generator)
 
