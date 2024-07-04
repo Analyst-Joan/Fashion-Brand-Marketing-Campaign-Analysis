@@ -292,6 +292,42 @@ Here’s what we can do:
 
 It’s now time to evaluate the 2 Ad categories – _**Discount and Latest collection**_
 
-## Recommendations (WIP)
+![](Ad_engagement_Img.JPG)
 
-## Dashboard (WIP)
+Among the 2 Ads used for the campaign, we see from the visual above that Discount ads lead in overall engagement metrics, including likes and Comments. However, Collection ads have more clicks despite having fewer conversions and lower Return on Ad-Spend. Discount ads have a lower CTR but a significantly higher conversion rate and ROAS compared to Collection ads.
+
+![](Ad_cost_rev_img.JPG)
+
+In terms of Cost analysis,  the visual above shows that Collection ads are slightly more cost-effective in terms of Cost Per Acquisition (CPA) and Cost-Per-Click (CPC) compared to Discount ads. Although Discount ads have a higher ad spend, they yield a significantly higher return on investment (ROI) in terms of monetary value compared to Collection ads.
+
+_**How do we Improve on the Ads?**_
+
+There are opportunities for optimization/Scaling based on the Ads performance:
+
+**For Discount Ads:**
+
+_Strength_: **High conversion rate and ROAS** indicate strong performance in converting clicks to revenue.
+
+**Opportunity**:
+-	 Increase the ad spend for Discount ads to capitalize on the high conversion efficiency. 
+-	Enhance targeting strategies to further improve CTR and engagement, especially leveraging the high like and share rates.
+  
+**For Collection Ads:**
+
+_Strength_: **Higher CTR** indicates effective ad appeal and relevance to the audience.
+
+**Opportunity**: 
+-	Focus on improving the conversion rate by refining landing pages and checkout processes. 
+-	Consider optimizing ad creatives to maintain high engagement while driving more conversions. 
+-	Test variations in ad copy and visuals to determine the best-performing combinations.
+
+## Dashboard:
+Having analyzed and visualized the required KPIs, [the interactive dashboard](), with Image shown below, was then designed with slicers, tooltips and bookmarks to enable the business user drill down and gain additional insights from the report.
+
+![](Maketing_campaign_dashboard.JPG)
+
+## Conclusion (WIP)
+In Summary, Consideration should be given to _shifting budget from underperforming areas to high perfoming areas_ to optimize overall campaign performance. 
+One way to do this will be by **reallocating budget to top-performing ads like discounts, and channels like Pinterest & Instagram.**
+
+![](Thanks.png)
