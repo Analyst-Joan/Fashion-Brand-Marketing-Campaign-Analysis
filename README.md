@@ -206,7 +206,10 @@ This high conversion is a likely reason for high revenue generated during the sa
 
 However, in terms of cost analysis, we see that despite having the highest Ad-spend and Cost per Acquisition, the fall season had the lowest Return on Ad-Spend (ROAS) across the campaign season. 
 
-Thus, our analysis shows that, the **most effective Campaign** was in **Summer**, which was characterized by: **A low cost-per-acquisition (CPA)**, indicating that the brand is acquiring customers or conversions at a relatively low cost, and **A High Return on Ad Spend (ROAS)**, which indicates that the revenue generated from those acquisitions is significantly higher than the cost.
+Thus, our analysis shows that, the **most effective Campaign** was in **Summer** (June to August), which was characterized by: 
+- **lowest Ad-spend** - Less expense on Ad campaigns
+- **low cost-per-acquisition (CPA)**, indicating that the brand is acquiring customers or conversions at a relatively low cost, and
+- **A High Return on Ad Spend (ROAS)**, which indicates that the revenue generated from those acquisitions is significantly higher than the cost.
 
 ![](Most_effective_campaign.JPG)
 
