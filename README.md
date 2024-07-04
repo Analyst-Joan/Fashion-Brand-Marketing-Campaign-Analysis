@@ -247,6 +247,50 @@ _**What should be done?**_
   
 Now, Let’s consider the performance across the channels.
 
+![](Channel_engagement_img.JPG)
+
+The ads were posted on 3 social media channels – **Facebook, Instagram and Pinterest**.  
+With about **5.4million post reach (Impressions), 70,000 clicks, and highest likes & shares** as shown in the visual above, it seemed as though everyone was accessing the campaign through **Facebook**. However, this didn’t translate to needed revenue, as the lowest conversion rate(18.77%) and Return on Ad-Spend (ROAS) (5.76) among the channels was from Facebook.
+
+**So, what about other 2 channels - _Instagram and Pinterest_.**
+
+Well, Our **Instagram** Users showed higher interest in the campaign offer than Facebook, having recorded the **highest number of conversions (15 thousand+) and highest revenue of over £684,000**. Wow! that’s great. 😀
+
+**Now, where is Pinterest in all of this?** 🤔
+
+Interestingly, despite having the lowest engagement and Click-through rate (CTR), **Pinterest had the highest conversation rate(26.83%) and highest Return on Ad-Spend (ROAS) (22.47)** among the channels. 
+
+Additionally, I carried out cost analysis to evaluate how efficient our investment in the 3 channels were.
+
+![](Channel_Cost_Rev_Img.JPG)
+
+From the above visual, the average Cost-per-Click (CPC) for _Facebook_ is £1.04, and the cost per acquisition (CPA) is £5.45, which is relatively high; and despite having the largest Ad-spend, it had the lowest Profit/Return-On investment (ROI). 
+
+_Instagram_, on the other hand, had the highest Revenue & Profit/Return-On investment (ROI). With a CPC of £1.00, CPA is £4.07, and an Ad-Spend slightly lower than Facebook's, it generated a ROI of £621.37K. 
+
+_Pinterest_ is seen to be the most cost-effective across the channels - despite having the lowest Ad-spend of £28.24K , it was the next best in terms of revenue and ROI, having generated a Profit/Return-On investment (ROI) of £606.47K
+
+**_Alright, what’s our takeaway from this? What are the opportunities to scale/optimize?_**
+
+![](Channel_summary_img.JPG)
+
+Here’s what we can do:
+
+**For Facebook**: 
+-	Improve conversion rate and ROAS by refining ad targeting and testing new creatives. 
+-	Consider segmenting audiences further to identify high-intent users. 
+  
+**For Instagram**: 
+-	Scale up Instagram campaigns by increasing the ad spend on high-performing ads. 
+-	Leverage the high engagement rates by creating more interactive and visually appealing content. 
+-	Additionally, use Instagram Stories and Reels to tap into a wider audience and boost conversions.
+  
+**For Pinterest**: Pinterest's strong conversion performance indicates a high potential for scalable growth with increased investment, thus:
+-	Significantly increase the ad spend on Pinterest campaigns. 
+-	Focus on scaling successful ad formats and targeting strategies. 
+-	Consider expanding to new audience segments and utilizing promoted pins to enhance visibility
+
+It’s now time to evaluate the 2 Ad categories – _**Discount and Latest collection**_
 
 ## Recommendations (WIP)
 
