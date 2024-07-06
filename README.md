@@ -326,7 +326,7 @@ Having analyzed and visualized the required KPIs, [the interactive dashboard](ht
 
 ![](Maketing_campaign_dashboard.JPG)
 
-## Conclusion (WIP)
+## Conclusion
 In Summary, Consideration should be given to _shifting budget from underperforming areas to high perfoming areas_ to optimize overall campaign performance. 
 One way to do this will be by **reallocating budget to top-performing ads like discounts, and channels like Pinterest & Instagram.**
 
