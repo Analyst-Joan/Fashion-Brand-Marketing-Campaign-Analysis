@@ -322,7 +322,7 @@ _Strength_: **Higher CTR** indicates effective ad appeal and relevance to the au
 -	Test variations in ad copy and visuals to determine the best-performing combinations.
 
 ## Dashboard:
-Having analyzed and visualized the required KPIs, [the interactive dashboard](https://drive.google.com/file/d/183meWryadUq3g8mQXwtJkX1uKptRkzvq/view?usp=sharing), with Image shown below, was then designed with slicers, tooltips and bookmarks to enable the business user drill down and gain additional insights from the report. A brief video guide of the dashboard can also be accessed through this [link](https://drive.google.com/file/d/1ksyEqHmqp5qyN-NQhzaSSTBv6_M0o5_f/view?usp=sharing)
+Having analyzed and visualized the required KPIs, [the interactive dashboard](https://drive.google.com/file/d/183meWryadUq3g8mQXwtJkX1uKptRkzvq/view?usp=sharing), with Image shown below, was then designed with slicers, tooltips and bookmarks to enable the business user drill down and gain additional insights from the report. A brief video guide of the dashboard can also be accessed through this [link](https://app.powerbi.com/view?r=eyJrIjoiOWM0NjgzYzYtZTU1OS00M2QwLTk0NjUtZjE1Mjg0YTdlOTRkIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9)
 
 ![](Maketing_campaign_dashboard.JPG)
 
